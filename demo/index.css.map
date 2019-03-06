@@ -1,0 +1,12 @@
+{
+    "version": 3,
+    "sources": [
+        "index.scss"
+    ],
+    "names": [],
+    "mappings": "AACA;EACI,YAAY;EACZ,aAAa;EACb,qBAAqB;EACrB,WALG,EAAA;EACP;IAMQ,eAAe;IACf,sBAAsB,EAAA",
+    "file": "index.css",
+    "sourcesContent": [
+        "$a:#345;\r\n.box{\r\n    width: 200px;\r\n    height: 200px;\r\n    background-color: red;\r\n    color: $a;\r\n    >.min{\r\n        font-size: 30px;\r\n        border: 1px solid #ccc;\r\n    }\r\n}"
+    ]
+}
